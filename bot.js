@@ -29,4 +29,4 @@ password : **${random2}**//Toxic Codes
 //Toxic Codes
 message.channel.send("**تم الارسال الحساب في الخاص | ☑ **")//Toxic Codes
 });//Toxic Codes
-client.login("NTI4NTM4ODUzNjgyNzA4NDkx.DwjwZw.qrMr78evq8H47F-yP5qJ1I0C7dI")
+client.login("NTI4NTM4ODUzNjgyNzA4NDkx.Dwj2YA.uMpW4jcaBmgOfSePONUVISes-2g")
